@@ -1,0 +1,19 @@
+{
+    "name": "robinncode/laradmin",
+    "description": "Laravel 9 and admin Lte 3 free version",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Robinncode\\Laradmin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "robinNcode",
+            "email": "msmrobin518@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
